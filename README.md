@@ -23,7 +23,7 @@ GitHub portfolio of Ankit Sheoran — Data Analyst &amp; CS Engineering student,
 ### 3. Python Data Cleaning Scripts
 - Automated missing value handling
 - Optimized datasets for analytics
-- [View Project](link-to-repo)
+- [View Project](https://github.com/sheoran1362/python)
 
 ---
 
