@@ -18,7 +18,7 @@ GitHub portfolio of Ankit Sheoran — Data Analyst &amp; CS Engineering student,
 ### 2. Customer Retention Analysis
 - Built ML model to predict churn
 - Increased lead conversions by 60%
-- [View Project](link-to-repo)
+- [View Project](https://github.com/sheoran1362/Trader-Behavior-Insights)
 
 ### 3. Python Data Cleaning Scripts
 - Automated missing value handling
