@@ -13,7 +13,7 @@ GitHub portfolio of Ankit Sheoran — Data Analyst &amp; CS Engineering student,
 ### 1. Power BI Sales Dashboard
 - Automated ETL pipeline for retail data
 - Improved business performance by 45%
-- [View Project](link-to-repo)
+- [View Project](https://github.com/sheoran1362/Power-bi-Sales-Dashboard)
 
 ### 2. Customer Retention Analysis
 - Built ML model to predict churn
